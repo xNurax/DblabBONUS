@@ -213,5 +213,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="jsch-0.1.55" level="project" />
   </component>
 </module>
